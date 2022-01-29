@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\OnlineShopping.Domain.Share\OnlineShopping.Domain.Share.csproj" />
+    <ProjectReference Include="..\OnlineShopping.Core\OnlineShopping.Core.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

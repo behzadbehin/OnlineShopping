@@ -6,6 +6,6 @@ namespace OnlineShopping.OrderContext
     public class Product : Entity
     {
         [Required]
-        public virtual string Name { get; set; }
+        public virtual string Name { get; set; } 
     }
 }
